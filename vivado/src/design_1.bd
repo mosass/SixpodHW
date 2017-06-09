@@ -213,6 +213,7 @@
           <spirit:configurableElementValue spirit:referenceId="PCW_ENET0_PERIPHERAL_ENABLE">1</spirit:configurableElementValue>
           <spirit:configurableElementValue spirit:referenceId="PCW_ENET0_ENET0_IO">MIO 16 .. 27</spirit:configurableElementValue>
           <spirit:configurableElementValue spirit:referenceId="PCW_ENET0_GRP_MDIO_ENABLE">1</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="PCW_ENET0_GRP_MDIO_IO">MIO 52 .. 53</spirit:configurableElementValue>
           <spirit:configurableElementValue spirit:referenceId="PCW_SD0_PERIPHERAL_ENABLE">1</spirit:configurableElementValue>
           <spirit:configurableElementValue spirit:referenceId="PCW_SD0_GRP_CD_ENABLE">1</spirit:configurableElementValue>
           <spirit:configurableElementValue spirit:referenceId="PCW_SD0_GRP_CD_IO">MIO 47</spirit:configurableElementValue>
